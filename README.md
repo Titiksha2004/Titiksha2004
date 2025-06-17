@@ -1,5 +1,6 @@
-# 💫 About Me:
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFC2&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Titiksha+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;ECE+Undergrad+%7C+AI%2FML+%26+Hardware+Dev+Enthusiast;Always+Learning+%E2%9A%A1%EF%B8%8F+Building+Cool+Stuff+%F0%9F%9A%80)
+# ABOUT ME ✨🦄
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFC2&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Titiksha+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;ECE+Undergrad+%7C+AI%2FML+%7C+Hardware+Dev;Always+Learning+%7C+Building+Cool+Stuff+%F0%9F%9A%80)
+
 
 
 
