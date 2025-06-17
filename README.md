@@ -11,8 +11,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Titiksha2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Here's+a+random+dev+quote!&font=Fira+Code&center=true&width=500&height=30&color=F75C7E&vCenter=true&size=20)
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Titiksha2004&icon=0&color=0)](https://visitcount.itsvg.in)
