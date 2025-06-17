@@ -17,5 +17,7 @@ I'm currently studying<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Titiksha2004&icon=0&color=0)](https://visitcount.itsvg.in)
+![GitHub Snake dark](https://raw.githubusercontent.com/Titiksha2004/Titiksha2004/output/github-contribution-grid-snake-dark.svg)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
